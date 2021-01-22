@@ -1,4 +1,4 @@
- ## Daily Coding problem 2
+ ## Daily Coding problem 1
 ---
 ### This problem was asked by Microsoft.
  A number is considered perfect if its digits sum up to exactly 10.
